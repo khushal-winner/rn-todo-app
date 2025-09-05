@@ -122,7 +122,7 @@ const Index = () => {
           </LinearGradient>
         </TouchableOpacity>
 
-        {isEditing ? (
+        {editingTodoId === item._id ? (
           <View style={homeStyles.editContainer}>
             <TextInput
               style={homeStyles.editInput}

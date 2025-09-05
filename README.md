@@ -26,6 +26,51 @@ A feature-rich todo application built with React Native, Expo, and Convex for re
 - **Convex Backend**: Powered by robust real-time database
 - **Cross-Platform**: Works seamlessly on iOS, Android, and web
 
+### 🏗️ **React Native & Expo Development**
+
+- Building cross-platform mobile applications
+- Using Expo for rapid development and testing
+
+### 🧭 **Navigation**
+
+- Tab navigation for main app sections
+- Stack navigation for detailed views
+- React Navigation best practices
+
+### 🧱 **Core Components Mastery**
+
+- `View`, `Text`, `FlatList`, `ScrollView`
+- `TouchableOpacity`, `Switch`, and more
+- Component composition and reusability
+
+### 🌈 **Advanced Styling**
+
+- Gradient backgrounds and modern UI
+- Modal implementations
+- Alert systems and user feedback
+- Dynamic theming (Light/Dark mode)
+
+### ⚡ **Backend Integration**
+
+- Real-time database with Convex
+- State management and synchronization
+- CRUD operations with instant updates
+
+### 🌓 **State Management**
+
+- Local state for UI preferences
+- Global state for todo management
+- Toggle states and user preferences
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or higher)
+- npm or yarn
+- Expo CLI
+- Convex account
+
 ### 📁 Environment Setup
 
 1. Create a `.env` file in the project root:
@@ -83,6 +128,8 @@ EXPO_PUBLIC_CONVEX_URL=<your_convex_url>
 │   └── 📁 styles/         # Styling and themes
 ├── 📁 convex/             # Backend functions and schema
 └── 📄 README.md           # This file
+└── public           # This file
+
 ```
 
 ## 🛠️ Tech Stack
@@ -92,17 +139,6 @@ EXPO_PUBLIC_CONVEX_URL=<your_convex_url>
 - **Backend**: Convex (Real-time database)
 - **Styling**: React Native StyleSheet + Custom themes
 - **State**: React hooks + Convex queries/mutations
-
-## 🌟 Key Learning Outcomes
-
-After completing this project, you'll understand:
-
-1. **Mobile Development Fundamentals**
-2. **Real-time Data Synchronization**
-3. **Modern Navigation Patterns**
-4. **Theming and Responsive Design**
-5. **Backend Integration Best Practices**
-6. **Cross-Platform Deployment**
 
 ## 🤝 Contributing
 
