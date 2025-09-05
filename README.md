@@ -21,7 +21,7 @@ A modern, feature-rich todo application built with React Native, Expo, and Conve
 - ➕ **Add Tasks**: Create new todos with intuitive input
 - ✅ **Toggle Completion**: One-tap completion status updates
 - 📝 **Edit Tasks**: Inline editing with smooth UX
-- 🗑️ **Delete Tasks**: Swipe-to-delete or button removal
+- 🗑️ **Delete Tasks**: button removal
 - 📊 **Progress Tracking**: Live progress bar with completion percentage
 
 ### 🔄 Real-Time Sync
@@ -35,7 +35,6 @@ A modern, feature-rich todo application built with React Native, Expo, and Conve
 - 🌙 **Dark/Light Mode**: System-aware theme switching
 - 🏗️ **Modern UI**: Clean, minimalist design with smooth animations
 - 📱 **Responsive**: Optimized for all screen sizes
-- 🔔 **Smart Notifications**: Contextual feedback and alerts
 
 ### ⚙️ Advanced Settings
 
