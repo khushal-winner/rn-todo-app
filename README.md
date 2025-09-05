@@ -2,7 +2,7 @@
 
 A modern, feature-rich todo application built with React Native, Expo, and Convex that demonstrates real-time data synchronization across all devices. This project showcases professional mobile development practices with a powerful backend integration.
 
-![App Demo](./screenshots/app-demo.gif)
+![App Demo](./img1.jpg)
 
 <!-- Replace with your actual GIF/video -->
 
