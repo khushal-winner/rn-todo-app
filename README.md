@@ -2,17 +2,13 @@
 
 A modern, feature-rich todo application built with React Native, Expo, and Convex that demonstrates real-time data synchronization across all devices. This project showcases professional mobile development practices with a powerful backend integration.
 
-![App Demo](./img1.jpg)
-
-<!-- Replace with your actual GIF/video -->
-
-## 📸 Screenshots
+![App Demo](./public/img1.jpg)
 
 <div align="center">
-  <img src="./img1.jpg" width="250" alt="Todos Light Mode" />
-  <img src="./img2.jpg" width="250" alt="Todos Dark Mode" />
-  <img src="./img3.jpg" width="250" alt="Settings Screen" />
-  <img src="./img4.jpg" width="250" alt="Settings Screen" />
+  <img src="./public/img1.jpg" width="250" alt="Todos Light Mode" />
+  <img src="./public/img2.jpg" width="250" alt="Todos Dark Mode" />
+  <img src="./public/img3.jpg" width="250" alt="Settings Screen" />
+  <img src="./public/img4.jpg" width="250" alt="Settings Screen" />
 </div>
 
 <!-- Replace with your actual screenshots -->
